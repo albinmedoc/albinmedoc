@@ -2,7 +2,7 @@
 
 ## About me
 
-I´m 21 years old and currently studying information architecture at Malmö University.
+I´m 23 years old and currently a full-stack developer at Lund University.
 
 My biggest strengths are building full-stack applications with TypeScript, Svelte, MongoDB, Node, Git, and more. I am also flexible and open to learning new programming languages.
 
